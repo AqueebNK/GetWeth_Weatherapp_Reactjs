@@ -77,7 +77,7 @@ export default function Bodywth() {
     }
   };
 
-  // Logic for the clear button
+  // Clear button logic
   const clearData = () => {
     setInputCity('');
     setCity('----');
