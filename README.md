@@ -8,6 +8,7 @@
 
  # Features:
    1 Current Weather Information
+   
    2 Temperature
    3 Humidity
    4 Wind Speed
