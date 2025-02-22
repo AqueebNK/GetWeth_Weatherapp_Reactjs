@@ -22,8 +22,6 @@ Provides the current wind speed, helping users prepare for any gusty weather con
   Humidity & Pressure: In addition to temperature, hourly humidity and pressure levels are displayed, giving users comprehensive insights into future weather conditions.
   User-Friendly City Search
   more than just basic weather details.
- ## API Integration:
-  The app integrates with a reliable and accurate weather API, pulling real-time data from weather servers to ensure that the information displayed is current and correct. This integration ensures you get the most up-to-date forecasts and weather conditions at all times.
 
 # Getting Started with Create React App
 
