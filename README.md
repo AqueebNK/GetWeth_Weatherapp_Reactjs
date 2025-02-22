@@ -8,28 +8,28 @@
 
  # Features:
  
-   1 Current Weather Information
+   1.  Current Weather Information
    
-   2 Temperature
+   2.  Temperature
    
-   3 Humidity
+   3.  Humidity
    
-   4 Wind Speed
+   4.  Wind Speed
    
-   5 24-Hour Weather Forecast
+   5.  24-Hour Weather Forecast
    
 
  # Tools used:
  
-   1 React.js
+   1.  React.js
    
-   2 HTML
+   2.  HTML
    
-   3 CSS 
+   3.  CSS 
    
-   4 JS
+   4.  JS
    
-   5 OpenWeatherApi
+   5.  OpenWeatherApi
    
 
 # Getting Started with Create React App
