@@ -1,15 +1,15 @@
 
 
-Weather App in ReactJS: Real-Time and 24-Hour Weather Forecast
+# Weather App in ReactJS: Real-Time and 24-Hour Weather Forecast
 
   This ReactJS-powered Weather App provides users with an intuitive and easy-to-use interface to access real-time weather data for any city worldwide. With a simple input field, users can quickly get an overview of the current weather conditions, as well as detailed information about the forecast for the next 24 hours. The app dynamically pulls data from a reliable weather API to ensure that users receive the most accurate and up-to-date information.
 
 
-  Key Features:
-  Current Weather Information:
+ # Key Features:
+  #Current Weather Information:
   
-  Temperature: Displays the current temperature in the chosen city.
-  Humidity: Shows the current humidity percentage, giving users a sense of the moisture content in the air.
+  #Temperature: Displays the current temperature in the chosen city.
+  #Humidity: Shows the current humidity percentage, giving users a sense of the moisture content in the air.
   Wind Speed: Provides the current wind speed, helping users prepare for any gusty weather conditions.
   Atmospheric Pressure: Shows the current air pressure at sea level, which can be useful for forecasting weather changes.
   Sea Level: Displays the sea level pressure, which gives users additional context for understanding weather patterns in coastal regions.
