@@ -32,7 +32,7 @@
    5.  OpenWeatherApi
    
 
-# Setup
+# Setup:
   $ npm install 
   
   $ npm start
